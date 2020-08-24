@@ -1,0 +1,5 @@
+# Removing the Pycharm .idea folder
+.idea/
+
+# removing .DS_Store
+.DS_Store
